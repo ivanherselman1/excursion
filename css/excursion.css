@@ -7,5 +7,22 @@ h1{
 }
 body {
     background-color: black;
+
+}
+
+#downloadLink  {
+    color : aquamarine;
+    text-align: center;
+    width: 100%;
+    font-size: 16px;
+
     
+}
+video {
+    margin:auto; 
+    
+}
+.videoElement{
+
+    text-align: center;
 }
